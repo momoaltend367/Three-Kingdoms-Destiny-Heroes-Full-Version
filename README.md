@@ -243,4 +243,4 @@ This repository serves as the official landing page for Three Kingdoms: Destiny 
 **Get the most recent version of Three Kingdoms: Destiny Heroes today!**
 
 ---
-**Last updated:** 2026-10-04 19:11:47 UTC
+**Last updated:** 2026-10-04 22:45:28 UTC
